@@ -1,0 +1,13 @@
+<?php
+
+
+function spotify_theme($existing, $type, $theme, $path) {
+  return [
+    'lanzamientos' => [
+      'variables' => ['result' => NULL],
+    ],
+  ];
+}
+
+
+?>

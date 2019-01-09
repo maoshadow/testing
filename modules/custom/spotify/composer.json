@@ -1,0 +1,6 @@
+{   
+    "require": {
+        "jwilsson/spotify-web-api-php": "^2.6",
+        "audeio/spotify-web-api": "0.*"
+    }
+}

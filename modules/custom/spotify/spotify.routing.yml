@@ -1,0 +1,7 @@
+spotify.routing:
+  path: '/lanzamientos'
+  defaults:
+    _title: 'Lanzamientos'
+    _controller: '\Drupal\spotify\Controller\SpotifyController::lanzamientos'
+  requirements:
+    _permission: 'access content'
